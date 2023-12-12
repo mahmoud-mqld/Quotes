@@ -72,7 +72,7 @@ img {
         padding: .5em;
         width: 85%;
         max-width: 600px;
-        line-break: auto;
+        line-break: 580px;
 
             }
             #auther {
