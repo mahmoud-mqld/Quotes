@@ -70,13 +70,14 @@ img {
     #caption{
         font-size: 1.2rem;
         padding: .5em;
-                margin-bottom: 2em;
-        width: 90%;
+        width: 85%;
 
             }
             #auther {
                 font-size:.5rem;
                 padding: .5em;
+                                margin-bottom: 2em;
+
             }
      .btn-red {
              padding-block: .5em;
