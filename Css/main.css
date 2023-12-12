@@ -71,6 +71,8 @@ img {
         font-size:1.6rem;
         padding: .5em;
         width: 85%;
+        max-width: 600px;
+        line-break: auto;
 
             }
             #auther {
