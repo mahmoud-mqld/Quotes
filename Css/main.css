@@ -61,9 +61,14 @@ img {
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
+    #qoute {
+        
+    }
+
+
     #caption{
-        font-size: 1rem;
+        font-size: 2rem;
         padding: .2 em;
             }
             #auther {
