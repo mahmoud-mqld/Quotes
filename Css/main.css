@@ -72,13 +72,16 @@ img {
 
 
     #caption{
-        font-size:1.6rem;
+/*         font-size:1.6rem;
         padding: .5em;
         width: 85%;
         max-width: 600px;
         line-break: 580px;
-    flex: 1 0 590px;
-
+    flex: 1 0 590px; */
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
             }
             #auther {
                 font-size:.5rem;
